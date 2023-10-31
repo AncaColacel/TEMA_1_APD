@@ -18,6 +18,9 @@ Am rulat tema de mai multe ori pentru a ma asigura ca obtin scalabilitate consta
 
 ## BIBLIOGRAFIE
 -> laboratoarele 1-3
+
 -> cursuri
+
 -> https://man7.org/linux/man-pages/man7/pthreads.7.html
+
 -> https://www.daemon-systems.org/man/pthread_barrier.3.html
